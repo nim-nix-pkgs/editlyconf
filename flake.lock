@@ -111,11 +111,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668748737,
-        "narHash": "sha256-BMqjXI83u7qAn16QolQcTM00MwlQpaTUy77X57Ak+S0=",
+        "lastModified": 1668754514,
+        "narHash": "sha256-d/izigi4IcBSk+FGKuIs4GHKw6TMH/CEj0xSL5jKafY=",
         "owner": "nim-nix-pkgs",
         "repo": "editlyconf",
-        "rev": "efe59bfdac44705bc21f4511bd2696ba4f0e1b7d",
+        "rev": "572cea87232b8ae4da92688ed782f12d68ef3d08",
         "type": "github"
       },
       "original": {
